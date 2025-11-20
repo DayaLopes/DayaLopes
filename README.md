@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DayaLopes
-- 👀 I’m interested in ... Aprender coisas novas    
-- 🌱 I’m currently learning ... Libras, Ingles e  Ciencia da computação
-- 💞️ I’m looking to collaborate on ... Minha vida profissional  
-- 📫 How to reach me ... Eu costumo usar o instagram com a conta @anedayaa 
+- 👀 I’m interested in ...Learn new things    
+- 🌱 I’m currently learning ... English, Italian and programming
+- 💞️ I’m looking to collaborate on ... My professional life 
+- 📫 How to reach me ... 
 
 <!---
 DayaLopes/DayaLopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
